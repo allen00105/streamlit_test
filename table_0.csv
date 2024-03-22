@@ -1,0 +1,67 @@
+,資產負債表Balance Sheet,資產負債表Balance Sheet,資產負債表Balance Sheet,資產負債表Balance Sheet,資產負債表Balance Sheet
+,代號Code,會計項目Accounting Title,2023年9月30日2023/9/30,2022年12月31日2022/12/31,2022年9月30日2022/9/30
+2,1100,現金及約當現金 Cash and cash equivalents,424067,364835,476785
+3,1136,按攤銷後成本衡量之金融資產－流動 Current financial assets at amortised cost,110278,116637,127647
+4,1150,"應收票據淨額 Notes receivable, net",6900,5963,11898
+5,1170,"應收帳款淨額 Accounts receivable, net",323992,259666,345409
+6,1180,"應收帳款－關係人淨額 Accounts receivable due from related parties, net",3894,3705,2802
+7,130X,存貨 Current inventories,569252,636340,667046
+8,1470,其他流動資產 Other current assets,160208,192319,209901
+9,11XX,流動資產合計 Total current assets,1598591,1579465,1841488
+10,,非流動資產　Non-current assets,,,
+11,1535,按攤銷後成本衡量之金融資產－非流動 Non-current financial assets at amortised cost,6022,5959,5853
+12,1600,"不動產、廠房及設備 Property, plant and equipment",1805272,1926430,1978174
+13,1755,使用權資產 Right-of-use assets,188798,200249,171170
+14,1760,"投資性不動產淨額 Investment property, net",74832,0,0
+15,1780,無形資產 Intangible assets,17438,23777,22744
+16,1840,遞延所得稅資產 Deferred tax assets,74849,47542,24357
+17,1900,其他非流動資產 Other non-current assets,36778,76229,59718
+18,15XX,非流動資產合計 Total non-current assets,2203989,2280186,2262016
+19,1XXX,資產總計　Total assets,3802580,3859651,4103504
+20,,負債及權益Liabilities and equity,,,
+21,,負債　Liabilities,,,
+22,,流動負債 Current liabilities,,,
+23,2100,短期借款 Current borrowings,897428,833919,869332
+24,2110,應付短期票券 Short-term notes and bills payable,49984,0,79815
+25,2130,合約負債－流動 Current contract liabilities,8721,10742,15389
+26,2150,應付票據 Notes payable,25658,12133,2631
+27,2170,應付帳款 Accounts payable,130152,90875,128448
+28,2180,應付帳款－關係人 Accounts payable to related parties,80,0,166
+29,2200,其他應付款 Other payables,133152,162162,175193
+30,2230,本期所得稅負債 Current tax liabilities,50,7836,10836
+31,2280,租賃負債－流動 Current lease liabilities,12785,13151,0
+32,2300,其他流動負債 Other current liabilities,131604,116390,129869
+33,2320,"一年或一營業週期內到期長期負債 Long-term liabilities, current portion",113800,89800,89800
+34,2365,退款負債－流動 Current refund liabilities,13651,23717,37353
+35,2399,"其他流動負債－其他 Other current liabilities, others",4153,2873,2716
+36,21XX,流動負債合計 Total current liabilities,1389614,1247208,1411679
+37,,非流動負債 Non-current liabilities,,,
+38,2540,長期借款 Non-current portion of non-current borrowings,388667,480017,502467
+39,2570,遞延所得稅負債 Deferred tax liabilities,40201,33076,27457
+40,2580,租賃負債－非流動 Non-current lease liabilities,12667,21591,0
+41,2600,其他非流動負債 Other non-current liabilities,45479,43140,45446
+42,25XX,非流動負債合計 Total non-current liabilities,487014,577824,575370
+43,2XXX,負債總計 Total liabilities,1876628,1825032,1987049
+44,,權益　Equity,,,
+45,,歸屬於母公司業主之權益 Equity attributable to owners of parent,,,
+46,,股本 Share capital,,,
+47,3110,普通股股本 Ordinary share,562736,562736,562736
+48,3100,股本合計 Total Share Capital,562736,562736,562736
+49,,資本公積 Capital surplus,,,
+50,3210,"資本公積－發行溢價 Capital surplus, additional paid-in capital",733562,733562,733562
+51,3240,"資本公積－處分資產增益 Capital surplus, gain on disposals of property, plant and equipment",997,997,997
+52,3200,資本公積合計 Total capital surplus,734559,734559,734559
+53,,保留盈餘 Retained earnings,,,
+54,3310,法定盈餘公積 Legal reserve,181361,180194,180194
+55,3320,特別盈餘公積 Special reserve,119816,183088,183088
+56,3350,未分配盈餘（或待彌補虧損） Unappropriated retained earnings (accumulated deficit),434363,493858,550458
+57,3300,保留盈餘合計 Total retained earnings,735540,857140,913740
+58,,其他權益 Other equity interest,,,
+59,3410,國外營運機構財務報表換算之兌換差額 Exchange differences on translation of foreign financial statements,"(106,883)","(119,816)","(94,580)"
+60,3400,其他權益合計 Total other equity interest,"(106,883)","(119,816)","(94,580)"
+61,31XX,歸屬於母公司業主之權益合計 Total equity attributable to owners of parent,1925952,2034619,2116455
+62,3XXX,權益總額 Total equity,1925952,2034619,2116455
+63,3X2X,負債及權益總計　Total liabilities and equity,3802580,3859651,4103504
+64,3997,待註銷股本股數　Number of share capital awaiting retirement,0,0,0
+65,3998,預收股款（權益項下）之約當發行股數　Equivalent issue shares of advance receipts for ordinary share,0,0,0
+66,3999,母公司暨子公司所持有之母公司庫藏股股數（單位：股）　Number of shares in entity held by entity and by its subsidiaries,0,0,0
